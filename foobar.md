@@ -1,9 +1,7 @@
-[stackblitz]: https://developer.stackblitz.com/img/open_in_stackblitz.svg
+[open-in-stackblitz]: https://developer.stackblitz.com/img/open_in_stackblitz.svg
+[stackblitz-got-0]: https://stackblitz.com
 
-[stackblitz-got-0]: https://example.com
-[stackblitz-project]: got-0
-[stackblitz-template]: javascript
-[stackblitz-dependencies]: got@12.0.0-beta.3
+[stackblitz-javascript]: got-0 (got@12.0.0-beta.3)
 
 [stackblitz-filename]: index.js
 
@@ -17,4 +15,4 @@ console.log('Hello, StackBlitz!');
 console.log('I am a test!');
 ```
 
-[![][stackblitz]][stackblitz-got-0]
+[![][open-in-stackblitz]][stackblitz-got-0]
