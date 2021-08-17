@@ -1,4 +1,4 @@
-[stackblitz]: https://developer.stackblitz.com/img/open_in_stackblitz.svg
+[stackblitz]: https://developer.stackblitz.com/img/open_in_stackblitz.svg#
 
 [stackblitz-got-0]: https://example.com
 [stackblitz-project]: got-0
